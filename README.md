@@ -1,4 +1,4 @@
-# Double kurento pipeline app
+# Group call app
 ## Run Kurento media server
 ```shell
  docker-compose up 
